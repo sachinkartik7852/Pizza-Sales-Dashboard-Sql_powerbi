@@ -1,6 +1,4 @@
-Here is a **professional README.md file** created using your **SQL + Power BI Pizza Sales project**, following the same structured format as your previous example:
 
----
 
 # 🍕 Pizza Sales Analysis – SQL & Power BI 
 
